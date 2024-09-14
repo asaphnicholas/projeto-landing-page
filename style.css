@@ -104,13 +104,14 @@
 
 #formulario {
     text-align: center;
+    background-color: rgb(5, 5, 14);
 
 }
 
 #titulo-formulario {
     font-size: 25px;
-    margin: 25px;
-    color: #383838
+    padding: 35px;
+    color: white
 }
 
 input{
